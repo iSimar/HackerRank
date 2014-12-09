@@ -20,6 +20,3 @@ for x in range(t):
 
 for x in o:
 	print x
-
-
-
